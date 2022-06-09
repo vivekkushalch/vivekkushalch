@@ -1,5 +1,5 @@
 <!-- My Profile README -->
-<p align="left">
+<p align="center">
 <h1 align="center">Hi 👋, I'm Vivek Kushal Chakraborty</h1>
 <h3 align="center">I ❤️ to Code</h3>
 
