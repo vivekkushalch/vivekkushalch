@@ -7,13 +7,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkushalch&show_icons=true&locale=en&layout=compact" alt="vivekkushalch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkushalch&layout=compact" alt="top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkushalch&show_icons=true&locale=en" alt="vivekkushalch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkushalch&show_icons=true&theme=default" alt="github stats" /></p>
 
 ---
 
-![github-visits](https://badges.pufler.dev/visits/vivekkushalch/vivekkushalch?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=for-the-badge)  ![GitHub Org's stars](https://img.shields.io/github/stars/vivekkushalch?style=for-the-badge)
+![github-visits](https://komarev.com/ghpvc/?username=vivekkushalch&style=for-the-badge)  
+![GitHub Org's stars](https://img.shields.io/github/stars/vivekkushalch?style=for-the-badge)
 
 </p>
 
