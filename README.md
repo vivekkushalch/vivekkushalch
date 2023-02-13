@@ -1,6 +1,6 @@
 <!-- My Profile README -->
 <p align="center">
-<h1 align="center">Hi 👋, I'm Vivek Kushal Chakraborty</h1>
+<h1 align="center">Hi <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="40">, I'm Vivek Kushal Chakraborty</h1>
 <h3 align="center">I ❤️ to Code</h3>
 
 
